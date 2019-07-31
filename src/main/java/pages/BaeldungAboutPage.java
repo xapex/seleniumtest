@@ -7,4 +7,6 @@ public class BaeldungAboutPage {
 
     @FindBy(css = ".page-header > h1")
     public static WebElement title;
+
+    public static final String newvariablewithcrapstupidname = "MyVerySecretPassword";
 }
